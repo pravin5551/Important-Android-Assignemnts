@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dark Light Mode</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="mobile">Mobile :</string>
 </resources>
